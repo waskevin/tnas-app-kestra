@@ -1,0 +1,6 @@
+services:
+  kestra:
+    image: kestra/kestra:develop
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai

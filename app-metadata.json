@@ -1,0 +1,12 @@
+{
+  "name": "Kestra",
+  "source": "https://kestra.io",
+  "docker_image": "kestra/kestra:develop",
+  "version": "develop",
+  "repository": "https://github.com/waskevin/tnas-app-kestra",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "submission_status": "not_submitted"
+}
