@@ -1,0 +1,14 @@
+{
+  "number": 14,
+  "name": "Kestra",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "evidence": "http_screenshot",
+  "screenshot_path": "precheck-screenshots/kestra/x86_64/reprecheck.png",
+  "precheck_status": "http_ok",
+  "runtime_note": "x86_64 Kestra server local mode reached the real Create an admin user setup page over HTTP; screenshot captured",
+  "submission_status": "not_submitted"
+}
